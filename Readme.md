@@ -19,9 +19,9 @@ To run the Snake game on your local machine, follow the instructions below.
 
 Clone this repository to your local machine using `git`:
 
-```bash
 git clone https://github.com/yourusername/my_flask_snake_game.git
 cd my_flask_snake_game
+
 2. Set Up a Virtual Environment (Recommended)
 It is recommended to set up a Python virtual environment to isolate the dependencies for this project:
 
