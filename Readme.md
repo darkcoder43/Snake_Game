@@ -10,10 +10,6 @@ A simple, interactive Snake game built using the Flask framework for the backend
 - **Real-Time Score Display**: The score updates instantly as you eat food.
 - **Responsive Design**: The game runs on any modern browser.
 
-## Project Structure
-
-snake_game/ │ ├── app.py # Main Flask application (backend) ├── requirements.txt # Dependencies (Flask and any other libraries) │ ├── templates/ # HTML templates (Flask will render these) │ └── index.html # HTML page for the game (client-side) │ ├── static/ # Static files (CSS, JavaScript, images, etc.) │ ├── css/ # CSS files for styling │ │ └── style.css # CSS file for game styling │ └── js/ # JavaScript files for game logic │ └── game.js # JavaScript file for game logic │ └── README.md # Project README (this file)
-
 
 ## Installation
 
